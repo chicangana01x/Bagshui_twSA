@@ -7,6 +7,7 @@ on:
     - dev
     paths:
     - 'Locale/enUS.lua'
+    - 'Locale/esES.lua'
 jobs:
   localization-update-announcement:
     # Don't run on forks by default.
